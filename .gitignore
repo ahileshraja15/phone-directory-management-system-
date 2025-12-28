@@ -1,0 +1,13 @@
+# Build directories
+/out/
+
+# Serialized data
+/data/*.ser
+
+# Java artifacts
+*.class
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
